@@ -1,0 +1,8 @@
+.userList{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+}
+.list{
+    border: 1px solid blue;
+}
